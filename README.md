@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-https://github.com/dev-shayan/github-readme-stats#responsive-card-theme#gh-dark-mode-only
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-shayan&show_icons=true&theme=radical)
