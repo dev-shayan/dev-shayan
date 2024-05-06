@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as a freelance frontend developer<br>👯 I’m looking to collaborate on frontend development<br>🌱 I’m currently learning backend development<br>💬 Ask me about Generative AI<br>
 
 
 ## 🌐 Socials:
