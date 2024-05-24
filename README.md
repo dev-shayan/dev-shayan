@@ -45,14 +45,10 @@
   </a>
   
 </p>
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-shayan&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-shayan&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shayan&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-shayan&icon=8&color=12)](https://visitcount.itsvg.in)
