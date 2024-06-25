@@ -3,8 +3,14 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayanxkhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShayanK70861275) 
-
+<a href="https://linkedin.com/in/shayanxkhan" rel="nofollow">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" alt="Python" style="max-width: 100%;">
+  </a>
+<a href="https://x.com/ShayanK70861275" rel="nofollow">
+    <img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1719187200&semt=ais_user" width="36" height="36" alt="Python" style="max-width: 100%;">
+  </a>
+  <br>
+  
 ## 💻 Tech Stack:
 <p align="left" dir="auto">
   
