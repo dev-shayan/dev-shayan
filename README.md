@@ -1,4 +1,4 @@
-## 💫 HI THERE!     Glad you come here:
+## 💫 HI THERE! 
 🔭 I’m currently working as a freelance frontend developer<br>👯 I’m looking to collaborate on frontend development<br>🌱 I’m currently learning Cloud Native Generative AI Development<br>💬 Ask me about Generative AI<br>
 
 
