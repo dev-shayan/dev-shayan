@@ -3,12 +3,14 @@
 
 
 ## 🌐 Socials:
+<p align="left" dir="auto">
 <a href="https://linkedin.com/in/shayanxkhan" rel="nofollow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" alt="Python" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36" height="36" alt="LinkedIn" style="max-width: 100%;">
   </a>
 <a href="https://x.com/ShayanK70861275" rel="nofollow">
-    <img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1719187200&semt=ais_user" width="36" height="36" alt="Python" style="max-width: 100%;">
+    <img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1719187200&semt=ais_user" width="36" height="36" alt="X" style="max-width: 100%;">
   </a>
+    </p>
   <br>
   
 ## 💻 Tech Stack:
